@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,29 +30,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/0ClDU6b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Admin panel top right->Agents->Roles Type in Supreme Admin. Go to permissions and check off which ones fit job description
+Go to Admin panel top right->Agents->Roles Type in name for the role. Go to permissions and check off which ones you want to assign
 </p>
 <img src="https://i.imgur.com/HeYISYL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure departments. Go to admin panel->agents->Departments Name department accordingly. To configure teams and agents use same steps except click on teams to add teams and agents to add agents
+Configure departments by going to admin panel->agents->Departments and Name department accordingly. To configure teams and agents use same steps except click on teams to add teams and agents to add agents
 </p>
 <img src="https://i.imgur.com/qFxUWZf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to admin panel top right->settings->user settings. In registration required section select require registration and login to create tickets
+Allow who can create tickets by going to admin panel top right->settings->users->Users settings. In registration required section select require registration and login to create tickets
 <p>
 <img src="https://i.imgur.com/IFzKIY3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to agent panel on top right->users->add new
 </p>
-<img src="https://i.imgur.com/IFzKIY3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LyfgcSW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure SLA by going to admin panel on top right->Manage->SLA 
 <p>
-<img src="https://i.imgur.com/IFzKIY3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Cj6PynA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure help topics by going to admin panel on top right->Manage->Help Topics
